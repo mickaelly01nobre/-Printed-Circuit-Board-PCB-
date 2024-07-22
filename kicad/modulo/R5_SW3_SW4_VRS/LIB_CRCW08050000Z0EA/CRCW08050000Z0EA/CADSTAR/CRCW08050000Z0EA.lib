@@ -1,0 +1,16 @@
+.CRCW08050000Z0EA :1 ;CRCW0805 Surface Mount Resistor, 0R0 Vishay CRCW Series Thick Film Surface Mount Resistor 0805 Case 0 1% 0.1W
+RESC2012X50N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN CRCW08050000Z0EA
+~!Mouser Part Number (71-CRCW0805-0-E3)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW08050000Z0EA?qs=waxnFHLl2hB4NcTp6tAQPA%3D%3D)
+~!Manufacturer_Name (Vishay)
+~!Manufacturer_Part_Number (CRCW08050000Z0EA)
+~!Link Datasheet (http://www.vishay.com/docs/20035/dcrcwe3.pdf)
+~!Height (0.5mm)
+~!3D_Model (CRCW08050000Z0EA)
+CRCW08050000Z0EA
+1.1!U 2.1!U 

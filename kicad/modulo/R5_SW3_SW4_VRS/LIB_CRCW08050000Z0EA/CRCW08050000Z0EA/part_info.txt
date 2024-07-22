@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=CRCW08050000Z0EA
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=3.1
+Released=2023-03-07 09:05:09
+Downloaded=2024-07-02 04:10:03
+3D=Y
