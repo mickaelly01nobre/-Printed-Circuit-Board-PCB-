@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRM21BR71C105KA01L'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Murata Electronics", "GRM21BR71C105KA01L" (!) = "", "CAPC2012X145N", "Capacitor Chip Non-polarised", "81-GRM40X105K16L", "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM21BR71C105KA01L?qs=WNiIrCCjU2Tw%2F0lnBzRiBw%3D%3D", "Ceramic  SMT capacitor 1uF 16Vdc Murata 0805 GRM 1uF Ceramic Multilayer Capacitor, 16 V dc, +125C, X7R Dielectric, +/-10% SMD", "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf", "1.45 mm"
+END_PART
+
+END.

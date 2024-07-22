@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRM21BR71C105KA01L
+D Ceramic  SMT capacitor 1uF 16Vdc Murata 0805 GRM 1uF Ceramic Multilayer Capacitor, 16 V dc, +125C, X7R Dielectric, +/-10% SMD
+K
+F http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf
+$ENDCMP
+#
+#End Doc Library

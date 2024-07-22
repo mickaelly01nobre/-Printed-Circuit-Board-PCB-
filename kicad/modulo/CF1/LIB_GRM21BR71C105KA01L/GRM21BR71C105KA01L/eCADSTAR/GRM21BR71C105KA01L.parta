@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_172753"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-08:57:42)
+    (utime 2023-03-07-08:57:42)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "GRM21BR71C105KA01L")
+)
+
+
+(pinAssign "ECS_172753"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-08:57:42)
+    (utime 2023-03-07-08:57:42)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_172753")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "GRM21BR71C105KA01L")
+)
+
+
+(part "GRM21BR71C105KA01L"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2023-03-07-08:57:42)
+    (utime 2023-03-07-08:57:42)
+    (packageRef "GRM21BR71C105KA01L")
+    (pinAssignRef "ECS_172753")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "C")
+    (property "description" "Ceramic  SMT capacitor 1uF 16Vdc Murata 0805 GRM 1uF Ceramic Multilayer Capacitor, 16 V dc, +125C, X7R Dielectric, +/-10% SMD")
+    (property "Mouser_Part_Number" "81-GRM40X105K16L")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM21BR71C105KA01L?qs=WNiIrCCjU2Tw%2F0lnBzRiBw%3D%3D")
+    (property "Manufacturer_Name" "Murata Electronics")
+    (property "Manufacturer_Part_Number" "GRM21BR71C105KA01L")
+    (property "Datasheet_Link" "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf")
+    (property "compAreaTopHeight" 1.45)
+)
+
+

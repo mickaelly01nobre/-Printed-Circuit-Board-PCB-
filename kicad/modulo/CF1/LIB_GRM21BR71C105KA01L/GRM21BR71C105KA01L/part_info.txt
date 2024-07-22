@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM21BR71C105KA01L
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.3
+Released=2023-03-07 08:57:42
+Downloaded=2024-07-02 04:32:17
+3D=Y

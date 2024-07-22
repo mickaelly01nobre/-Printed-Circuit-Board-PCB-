@@ -1,0 +1,16 @@
+.GRM21BR71C105KA01L :1 ;Ceramic  SMT capacitor 1uF 16Vdc Murata 0805 GRM 1uF Ceramic Multilayer Capacitor, 16 V dc, +125C, X7R Dielectric, +/-10% SMD
+CAPC2012X145N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN GRM21BR71C105KA01L
+~!Mouser Part Number (81-GRM40X105K16L)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Murata-Electronics/GRM21BR71C105KA01L?qs=WNiIrCCjU2Tw%2F0lnBzRiBw%3D%3D)
+~!Manufacturer_Name (Murata Electronics)
+~!Manufacturer_Part_Number (GRM21BR71C105KA01L)
+~!Link Datasheet (http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c02e.pdf)
+~!Height (1.45mm)
+~!3D_Model (GRM21BR71C105KA01L)
+GRM21BR71C105KA01L
+1.1!U 2.1!U 
