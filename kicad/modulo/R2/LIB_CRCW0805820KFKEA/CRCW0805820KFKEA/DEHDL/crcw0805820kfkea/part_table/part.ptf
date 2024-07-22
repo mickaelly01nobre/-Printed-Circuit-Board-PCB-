@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRCW0805820KFKEA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CRCW0805820KFKEA" (!) = "", "RESC2012X50N", "Resistor Chip", "71-CRCW0805820KFKEA", "https://www.mouser.com/Search/Refine.aspx?Keyword=71-CRCW0805820KFKEA", "Vishay CRCW Series Thick Film Surface Mount Resistor 805 Case 820k +/-1% 0.125W +/-100ppm/C", "https://componentsearchengine.com/Datasheets/1/CRCW0805820KFKEA.pdf", "0.5 mm"
+END_PART
+
+END.

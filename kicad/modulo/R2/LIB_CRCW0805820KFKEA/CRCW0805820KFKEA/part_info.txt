@@ -1,0 +1,9 @@
+Manufacturer=Vishay
+PartNumber=CRCW0805820KFKEA
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2023-03-07 09:13:16
+Downloaded=2024-07-02 04:23:35
+3D=Y
