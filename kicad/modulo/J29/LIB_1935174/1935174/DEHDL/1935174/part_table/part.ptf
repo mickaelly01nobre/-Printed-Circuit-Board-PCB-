@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1935174'
+CLASS = IO
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Phoenix Contact", "1935174" (!) = "", "1935174", "Other", "651-1935174", "https://www.mouser.co.uk/ProductDetail/Phoenix-Contact/1935174?qs=QWULklcAmSR8B7o4YouITA%3D%3D", "PCB terminal block, Nominal current: 17.5 A, Nom. voltage: 400 V, Pitch: 5 mm, Number of positions: 3, Connection method: Screw connection with wire protector, Mounting: Wave soldering, Conductor/PCB connection direction: 0 , Color: green, Also possible: Connection of a 1.5 mm conductor with ferrule, then however with reduction in rated voltage or degree of pollution / surge category.", "", "11.55 mm"
+END_PART
+
+END.

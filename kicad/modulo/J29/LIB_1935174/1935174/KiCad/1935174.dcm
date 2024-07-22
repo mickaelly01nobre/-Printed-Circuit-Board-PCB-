@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 1935174
+D PCB terminal block, Nominal current: 17.5 A, Nom. voltage: 400 V, Pitch: 5 mm, Number of positions: 3, Connection method: Screw connection with wire protector, Mounting: Wave soldering, Conductor/PCB connection direction: 0 , Color: green, Also possible: Connection of a 1.5 mm conductor with ferrule, then however with reduction in rated voltage or degree of pollution / surge category.
+K
+F 
+$ENDCMP
+#
+#End Doc Library
