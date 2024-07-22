@@ -1,0 +1,9 @@
+Manufacturer=Murata Electronics
+PartNumber=GRM21BF51A475ZA01L
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=2.3
+Released=2023-03-07 08:56:55
+Downloaded=2024-07-02 04:49:42
+3D=Y
