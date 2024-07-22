@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "MCHV05WAJ0225T5E"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2024-05-29-09:34:08)
+    (mountForm default
+        (footprintRef "RESC2013X65N")
+        (spec "System")
+    )
+)

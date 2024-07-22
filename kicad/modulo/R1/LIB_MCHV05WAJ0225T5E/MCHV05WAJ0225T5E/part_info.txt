@@ -1,0 +1,9 @@
+Manufacturer=Multicomp Pro
+PartNumber=MCHV05WAJ0225T5E
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=1.1
+Released=2024-05-29 09:34:08
+Downloaded=2024-07-02 04:14:23
+3D=Y

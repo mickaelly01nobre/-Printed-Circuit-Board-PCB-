@@ -1,0 +1,66 @@
+(Japanese_coding: sjis)
+(function "ECS_19659039"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-05-29-09:34:08)
+    (utime 2024-05-29-09:34:08)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+    )
+    (property "symbolName" "MCHV05WAJ0225T5E")
+)
+
+
+(pinAssign "ECS_19659039"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-05-29-09:34:08)
+    (utime 2024-05-29-09:34:08)
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_19659039")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "MCHV05WAJ0225T5E")
+)
+
+
+(part "MCHV05WAJ0225T5E"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2024-05-29-09:34:08)
+    (utime 2024-05-29-09:34:08)
+    (packageRef "MCHV05WAJ0225T5E")
+    (pinAssignRef "ECS_19659039")
+    (interface
+        (port "1" (symbPinId 1) (portName "1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "R")
+    (property "description" "SMD Chip Resistor, 2.2 Mohm, +/- 5%, 100 mW, 0805 [2012 Metric], Thick Film, High Voltage")
+    (property "Farnell_Part_Number" "")
+    (property "Farnell_Price/Stock" "")
+    (property "Manufacturer_Name" "Multicomp Pro")
+    (property "Manufacturer_Part_Number" "MCHV05WAJ0225T5E")
+    (property "Datasheet_Link" "")
+    (property "compAreaTopHeight" 0.65)
+)
+
+

@@ -1,0 +1,16 @@
+.MCHV05WAJ0225T5E :1 ;SMD Chip Resistor, 2.2 Mohm, +/- 5%, 100 mW, 0805 [2012 Metric], Thick Film, High Voltage
+RESC2013X65N
+*STM R
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN MCHV05WAJ0225T5E
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Multicomp Pro)
+~!Manufacturer_Part_Number (MCHV05WAJ0225T5E)
+~!Link Datasheet (-)
+~!Height (0.65mm)
+~!3D_Model (MCHV05WAJ0225T5E)
+MCHV05WAJ0225T5E
+1.1!U 2.1!U 

@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'MCHV05WAJ0225T5E'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "FARNELL_PART_NUMBER", "FARNELL_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Multicomp Pro", "MCHV05WAJ0225T5E" (!) = "", "RESC2013X65N", "Resistor Chip", "", "", "SMD Chip Resistor, 2.2 Mohm, +/- 5%, 100 mW, 0805 [2012 Metric], Thick Film, High Voltage", "", "0.65 mm"
+END_PART
+
+END.
