@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CR0805-FX-4700GLF
+D SMD 0805 thick film resistor 470R 1% Bourns CR0805-FX Series Thick Film Surface Mount Fixed Resistor 0805 Case 470 +/-1% 0.125W +/-100ppm/C
+K
+F https://componentsearchengine.com/Datasheets/1/CR0805-FX-4700GLF.pdf
+$ENDCMP
+#
+#End Doc Library

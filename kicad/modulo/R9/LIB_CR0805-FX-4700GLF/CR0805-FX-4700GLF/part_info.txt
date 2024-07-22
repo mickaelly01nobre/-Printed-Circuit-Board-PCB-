@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=CR0805-FX-4700GLF
+PartCategory=Resistor
+PackageCategory=Resistor Chip
+PinCount=2
+Version=3.3
+Released=2023-03-07 09:22:19
+Downloaded=2024-07-02 04:56:01
+3D=Y

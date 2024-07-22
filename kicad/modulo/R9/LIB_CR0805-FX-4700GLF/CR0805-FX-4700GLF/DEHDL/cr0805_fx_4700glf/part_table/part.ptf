@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CR0805_FX_4700GLF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "CR0805-FX-4700GLF" (!) = "", "RESC2012X60N", "Resistor Chip", "652-CR0805-FX4700GLF", "https://www.mouser.com/Search/Refine.aspx?Keyword=652-CR0805-FX4700GLF", "SMD 0805 thick film resistor 470R 1% Bourns CR0805-FX Series Thick Film Surface Mount Fixed Resistor 0805 Case 470 +/-1% 0.125W +/-100ppm/C", "https://componentsearchengine.com/Datasheets/1/CR0805-FX-4700GLF.pdf", "0.6 mm"
+END_PART
+
+END.
