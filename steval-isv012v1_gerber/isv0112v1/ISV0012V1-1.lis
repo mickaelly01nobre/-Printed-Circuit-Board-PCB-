@@ -1,0 +1,214 @@
+Post Processor Report
+OrCAD FILE: C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.MAX
+Tue Apr 29 20:10:00 2014
+
+*********************************************************
+
+Output file: C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.TOP
+
+Aperture totals for C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.TOP:
+---------------------------------------------------------
+D10:  0.1870 ROUND  --       0 Draws,       4 Flashes
+D11:  0.0500 SQUARE --       0 Draws,      60 Flashes
+D12:  0.0787 x 0.1181 RECTANGLE -----       1 Flashes
+D13:  0.0394 SQUARE --       0 Draws,       1 Flashes
+D14:  0.0620 ROUND  --       0 Draws,       6 Flashes
+D15:  0.0590 x 0.0100 RECTANGLE -----       8 Flashes
+D16:  0.0630 SQUARE --       0 Draws,       1 Flashes
+D17:  0.0098 x 0.0394 RECTANGLE -----       8 Flashes
+D18:  0.0394 x 0.0098 RECTANGLE -----       8 Flashes
+D19:  0.0787 ROUND  --       0 Draws,       3 Flashes
+D20:  0.0720 x 0.1660 RECTANGLE -----       2 Flashes
+D21:  0.0320 x 0.0380 RECTANGLE -----       6 Flashes
+D22:  0.1150 x 0.1100 RECTANGLE -----       2 Flashes
+D23:  0.1100 x 0.1150 RECTANGLE -----       1 Flashes
+D24:  0.0157 ROUND  --       0 Draws,      30 Flashes
+D25:  0.0197 ROUND  --       0 Draws,      81 Flashes
+D26:  0.0010 ROUND  --    6048 Draws,       0 Flashes
+D27:  0.0100 ROUND  --    5170 Draws,       0 Flashes
+D28:  0.0157 ROUND  --      79 Draws,       0 Flashes
+D29:  0.0118 ROUND  --      48 Draws,       0 Flashes
+D30:  0.0197 ROUND  --      11 Draws,       0 Flashes
+D31:  0.0197 ROUND  --       0 Draws,      18 Flashes
+D32:  0.0120 ROUND  --      23 Draws,       0 Flashes
+D33:  0.0394 ROUND  --       1 Draws,       0 Flashes
+---------------------------------------------------------
+ 24 D-Codes      -----   11380 Draws,     240 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.BOT
+
+Aperture totals for C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.BOT:
+---------------------------------------------------------
+D10:  0.1870 ROUND  --       0 Draws,       4 Flashes
+D14:  0.0620 ROUND  --       0 Draws,       6 Flashes
+D19:  0.0787 ROUND  --       0 Draws,       3 Flashes
+D24:  0.0157 ROUND  --       0 Draws,      30 Flashes
+D25:  0.0197 ROUND  --       0 Draws,      81 Flashes
+D26:  0.0010 ROUND  --     243 Draws,       0 Flashes
+D27:  0.0100 ROUND  --    3138 Draws,       0 Flashes
+D28:  0.0157 ROUND  --      17 Draws,       0 Flashes
+D29:  0.0118 ROUND  --       4 Draws,       0 Flashes
+D30:  0.0197 ROUND  --       3 Draws,       0 Flashes
+D31:  0.0197 ROUND  --       0 Draws,      16 Flashes
+D32:  0.0120 ROUND  --       5 Draws,       0 Flashes
+D34:  0.9449 x 0.1968 RECTANGLE -----       1 Flashes
+D35:  0.0197 ROUND  --       0 Draws,       2 Flashes
+---------------------------------------------------------
+ 14 D-Codes      -----    3410 Draws,     143 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.SMT
+
+Aperture totals for C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.SMT:
+---------------------------------------------------------
+D11:  0.0500 SQUARE --       0 Draws,      60 Flashes
+D12:  0.0787 x 0.1181 RECTANGLE -----       1 Flashes
+D13:  0.0394 SQUARE --       0 Draws,       1 Flashes
+D15:  0.0590 x 0.0100 RECTANGLE -----       8 Flashes
+D16:  0.0630 SQUARE --       0 Draws,       1 Flashes
+D17:  0.0098 x 0.0394 RECTANGLE -----       8 Flashes
+D18:  0.0394 x 0.0098 RECTANGLE -----       8 Flashes
+D20:  0.0720 x 0.1660 RECTANGLE -----       2 Flashes
+D21:  0.0320 x 0.0380 RECTANGLE -----       6 Flashes
+D22:  0.1150 x 0.1100 RECTANGLE -----       2 Flashes
+D23:  0.1100 x 0.1150 RECTANGLE -----       1 Flashes
+D25:  0.0197 ROUND  --       0 Draws,     111 Flashes
+D26:  0.0010 ROUND  --    2270 Draws,       0 Flashes
+D35:  0.0197 ROUND  --       0 Draws,      18 Flashes
+D36:  0.1968 ROUND  --       0 Draws,       4 Flashes
+D37:  0.0670 ROUND  --       0 Draws,       6 Flashes
+D38:  0.0886 ROUND  --       0 Draws,       3 Flashes
+D39:  0.0039 ROUND  --      61 Draws,       0 Flashes
+---------------------------------------------------------
+ 18 D-Codes      -----    2331 Draws,     240 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.SMB
+
+Aperture totals for C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.SMB:
+---------------------------------------------------------
+D25:  0.0197 ROUND  --       0 Draws,     111 Flashes
+D35:  0.0197 ROUND  --       0 Draws,      18 Flashes
+D36:  0.1968 ROUND  --       0 Draws,       4 Flashes
+D37:  0.0670 ROUND  --       0 Draws,       6 Flashes
+D38:  0.0886 ROUND  --       0 Draws,       3 Flashes
+D40:  0.9842 x 0.2047 RECTANGLE -----       1 Flashes
+---------------------------------------------------------
+  6 D-Codes      -----       0 Draws,     143 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.SPT
+
+Aperture totals for C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.SPT:
+---------------------------------------------------------
+D11:  0.0500 SQUARE --       0 Draws,      60 Flashes
+D12:  0.0787 x 0.1181 RECTANGLE -----       1 Flashes
+D13:  0.0394 SQUARE --       0 Draws,       1 Flashes
+D16:  0.0630 SQUARE --       0 Draws,       1 Flashes
+D17:  0.0098 x 0.0394 RECTANGLE -----       8 Flashes
+D18:  0.0394 x 0.0098 RECTANGLE -----       8 Flashes
+D20:  0.0720 x 0.1660 RECTANGLE -----       2 Flashes
+D21:  0.0320 x 0.0380 RECTANGLE -----       6 Flashes
+D22:  0.1150 x 0.1100 RECTANGLE -----       2 Flashes
+D23:  0.1100 x 0.1150 RECTANGLE -----       1 Flashes
+D25:  0.0197 ROUND  --       0 Draws,     111 Flashes
+D26:  0.0010 ROUND  --    1815 Draws,       0 Flashes
+D35:  0.0197 ROUND  --       0 Draws,      18 Flashes
+D39:  0.0039 ROUND  --      61 Draws,       0 Flashes
+D41:  0.0590 x 0.0098 RECTANGLE -----       8 Flashes
+---------------------------------------------------------
+ 15 D-Codes      -----    1876 Draws,     227 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.SST
+
+Aperture totals for C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.SST:
+---------------------------------------------------------
+D26:  0.0010 ROUND  --     485 Draws,       0 Flashes
+D27:  0.0100 ROUND  --     399 Draws,       0 Flashes
+D39:  0.0039 ROUND  --      90 Draws,       0 Flashes
+D42:  0.0060 ROUND  --     713 Draws,       0 Flashes
+D43:  0.0040 ROUND  --      11 Draws,       0 Flashes
+D44:  0.0020 ROUND  --       8 Draws,       0 Flashes
+D45:  0.0079 ROUND  --      20 Draws,       0 Flashes
+D46:  0.0080 ROUND  --      44 Draws,       0 Flashes
+---------------------------------------------------------
+  8 D-Codes      -----    1770 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.DRD
+
+Aperture totals for C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.DRD:
+---------------------------------------------------------
+D27:  0.0100 ROUND  --    1068 Draws,       0 Flashes
+---------------------------------------------------------
+  1 D-Codes      -----    1068 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.FAB
+
+Aperture totals for C:\USERS\FOX\DESKTOP\ST\ISV0012V1\ISV0012V1-1.FAB:
+---------------------------------------------------------
+D25:  0.0197 ROUND  --       0 Draws,      81 Flashes
+D27:  0.0100 ROUND  --       4 Draws,       0 Flashes
+D35:  0.0197 ROUND  --       0 Draws,      18 Flashes
+D47:  0.0079 ROUND  --       0 Draws,      30 Flashes
+---------------------------------------------------------
+  4 D-Codes      -----       4 Draws,     129 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.1870 ROUND  --       0 Draws,       8 Flashes
+D11:  0.0500 SQUARE --       0 Draws,     180 Flashes
+D12:  0.0787 x 0.1181 RECTANGLE -----       3 Flashes
+D13:  0.0394 SQUARE --       0 Draws,       3 Flashes
+D14:  0.0620 ROUND  --       0 Draws,      12 Flashes
+D15:  0.0590 x 0.0100 RECTANGLE -----      16 Flashes
+D16:  0.0630 SQUARE --       0 Draws,       3 Flashes
+D17:  0.0098 x 0.0394 RECTANGLE -----      24 Flashes
+D18:  0.0394 x 0.0098 RECTANGLE -----      24 Flashes
+D19:  0.0787 ROUND  --       0 Draws,       6 Flashes
+D20:  0.0720 x 0.1660 RECTANGLE -----       6 Flashes
+D21:  0.0320 x 0.0380 RECTANGLE -----      18 Flashes
+D22:  0.1150 x 0.1100 RECTANGLE -----       6 Flashes
+D23:  0.1100 x 0.1150 RECTANGLE -----       3 Flashes
+D24:  0.0157 ROUND  --       0 Draws,      60 Flashes
+D25:  0.0197 ROUND  --       0 Draws,     576 Flashes
+D26:  0.0010 ROUND  --   10861 Draws,       0 Flashes
+D27:  0.0100 ROUND  --    9779 Draws,       0 Flashes
+D28:  0.0157 ROUND  --      96 Draws,       0 Flashes
+D29:  0.0118 ROUND  --      52 Draws,       0 Flashes
+D30:  0.0197 ROUND  --      14 Draws,       0 Flashes
+D31:  0.0197 ROUND  --       0 Draws,      34 Flashes
+D32:  0.0120 ROUND  --      28 Draws,       0 Flashes
+D33:  0.0394 ROUND  --       1 Draws,       0 Flashes
+D34:  0.9449 x 0.1968 RECTANGLE -----       1 Flashes
+D35:  0.0197 ROUND  --       0 Draws,      74 Flashes
+D36:  0.1968 ROUND  --       0 Draws,       8 Flashes
+D37:  0.0670 ROUND  --       0 Draws,      12 Flashes
+D38:  0.0886 ROUND  --       0 Draws,       6 Flashes
+D39:  0.0039 ROUND  --     212 Draws,       0 Flashes
+D40:  0.9842 x 0.2047 RECTANGLE -----       1 Flashes
+D41:  0.0590 x 0.0098 RECTANGLE -----       8 Flashes
+D42:  0.0060 ROUND  --     713 Draws,       0 Flashes
+D43:  0.0040 ROUND  --      11 Draws,       0 Flashes
+D44:  0.0020 ROUND  --       8 Draws,       0 Flashes
+D45:  0.0079 ROUND  --      20 Draws,       0 Flashes
+D46:  0.0080 ROUND  --      44 Draws,       0 Flashes
+D47:  0.0079 ROUND  --       0 Draws,      30 Flashes
+---------------------------------------------------------
+ 38 D-Codes      -----   21839 Draws,    1122 Flashes
+
+
+No warnings or errors.
