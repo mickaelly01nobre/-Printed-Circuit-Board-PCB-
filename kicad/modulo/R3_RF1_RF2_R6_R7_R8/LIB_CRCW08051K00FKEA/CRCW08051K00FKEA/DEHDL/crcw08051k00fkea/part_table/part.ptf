@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CRCW08051K00FKEA'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Vishay", "CRCW08051K00FKEA" (!) = "", "RESC2012X50N", "Resistor Chip", "71-CRCW0805-1.0K-E3", "https://www.mouser.co.uk/ProductDetail/Vishay-Dale/CRCW08051K00FKEA?qs=DZvKvnD5UYU3bClwFPa9DQ%3D%3D", "Vishay CRCW Series Thick Film Surface Mount Resistor 0805 Case 1k +/-1% 0.125W +/-100ppm/C", "http://www.vishay.com/docs/20035/dcrcwe3.pdf", "0.5 mm"
+END_PART
+
+END.
