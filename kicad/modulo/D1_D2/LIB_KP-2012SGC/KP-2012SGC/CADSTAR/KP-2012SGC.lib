@@ -1,0 +1,15 @@
+.KP-2012SGC :1 ;Green 0805 clear chip-LED KP-2012SGC Kingbright KP-2012SGC Green LED, 568 nm, 2012 (0805), Rectangle Lens SMD Package
+LEDC2012X110N
+*STM LED
+*NGS
+*PLB 1="K" 2="A"
+*MXP 2
+*DFN KP-2012SGC
+~!Farnell Part Number (-)
+~!Farnell Price/Stock (-)
+~!Manufacturer_Name (Kingbright)
+~!Manufacturer_Part_Number (KP-2012SGC)
+~!Link Datasheet (https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-16/DSA-309851.pdf)
+~!Height (1.1mm)
+KP-2012SGC
+1.1!U 2.1!U 

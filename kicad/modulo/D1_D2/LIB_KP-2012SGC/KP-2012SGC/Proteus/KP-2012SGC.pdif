@@ -1,0 +1,124 @@
+;Proteus Design Interchange Format
+(PDIF
+ (vendor "SamacSys Limited")
+ (version 1 0)
+ (library
+  (part "KP-2012SGC"
+   (description "Green 0805 clear chip-LED KP-2012SGC Kingbright KP-2012SGC Green LED, 568 nm, 2012 (0805), Rectangle Lens SMD Package")
+   (family "DIO")
+   (package "LEDC2012X110N")
+   (attribute "Datasheet Link" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-16/DSA-309851.pdf")
+   (attribute "Geometry.Height" "1.1mm")
+   (attribute "Farnell Part Number" "")
+   (attribute "Farnell Price/Stock" "")
+   (attribute "Manufacturer_Name" "Kingbright")
+   (attribute "Manufacturer_Part_Number" "KP-2012SGC")
+   (gate
+    (symbol "KP-2012SGC")
+    (pin "K" 1 PS)
+    (pin "A" 2 PS)
+   )
+  )
+  (symbol "KP-2012SGC"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 200 100) (pt 200 -100))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 250 100) (pt 150 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 350 100) (pt 250 200))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 100 0) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (pt 400 0) (pt 500 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 200 0) (pt 400 100) (pt 400 -100) (pt 200 0))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 210 170) (pt 180 140) (pt 150 200) (pt 210 170))
+   )
+   (graphic
+    (stroke 10)
+    (path (closed true) (pt 310 170) (pt 280 140) (pt 250 200) (pt 310 170))
+   )
+   (terminal
+    (body (symbol "PINSHORT") (pt 0 0) (rot 0) (mir 0) (visible true))
+    (name (pt 10 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+   (terminal
+    (body (symbol "PINSHORT") (pt 600 0) (rot 0) (mir X) (visible true))
+    (name (pt 10 -10) (rot 0) (just TOP LEFT) (visible false))
+    (number (pt 60 10) (rot 0) (just BOTTOM RIGHT) (visible true)))
+  )
+  (symbol "PIN"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 200 0))))
+  (symbol "PINSHORT"
+   (units THOU)
+   (origin (pt 0 0))
+   (graphic
+    (stroke 10)
+    (path (pt 0 0) (pt 100 0))))
+  (package "LEDC2012X110N"
+   (units MM)
+   (layer OCCA
+    (graphic
+     (stroke 0.05)
+     (path
+      (closed true)
+      (pt -1.85 1.15)
+      (pt 1.85 1.15)
+      (pt 1.85 -1.15)
+      (pt -1.85 -1.15)
+      (pt -1.85 1.15))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed true)
+      (pt -1 0.625)
+      (pt 1 0.625)
+      (pt 1 -0.625)
+      (pt -1 -0.625)
+      (pt -1 0.625))))
+   (layer TASM
+    (graphic
+     (stroke 0.1)
+     (path
+      (closed false)
+      (pt -1 0.208)
+      (pt -0.583 0.625))))
+   (layer TSLK
+    (graphic
+     (stroke 0.2)
+     (path
+      (closed false)
+      (pt 0.95 1.05)
+      (pt -1.75 1.05)
+      (pt -1.75 -1.05)
+      (pt 0.95 -1.05))))
+   (leg 1 (pt -0.95 0) (padstack 0))
+   (leg 2 (pt 0.95 0) (padstack 0))
+   (padstack 0
+    (plated false)
+    (pad (layer TCOP) (rectf 0.9 1.4 0 0 90))
+   )
+  )
+ )
+)

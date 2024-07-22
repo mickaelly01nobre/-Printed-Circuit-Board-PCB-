@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP KP-2012SGC
+D Green 0805 clear chip-LED KP-2012SGC Kingbright KP-2012SGC Green LED, 568 nm, 2012 (0805), Rectangle Lens SMD Package
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-16/DSA-309851.pdf
+$ENDCMP
+#
+#End Doc Library

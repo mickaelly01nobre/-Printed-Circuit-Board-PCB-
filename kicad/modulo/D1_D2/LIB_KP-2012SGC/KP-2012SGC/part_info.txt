@@ -1,0 +1,9 @@
+Manufacturer=Kingbright
+PartNumber=KP-2012SGC
+PartCategory=LED
+PackageCategory=LEDs Chip
+PinCount=2
+Version=1.1
+Released=2016-10-26 09:59:01
+Downloaded=2024-07-02 04:42:31
+3D=N
