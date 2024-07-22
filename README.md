@@ -56,6 +56,11 @@ L6924D: Fully integrated linear charger solution with power MOSFET, reverse bloc
 * NTC or PTC thermistor interface for battery temperature monitoring and protection
 * RoHS compliant
 
+<div align="center">
+  
+![Captura de tela de 2024-07-22 02-36-29](https://github.com/user-attachments/assets/e533a707-6292-422a-98d9-531587654e68)
+
+</div>
   
 
 
