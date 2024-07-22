@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L6924D
+D L6924D, Battery Charge Controller, Lithium-Ion, Lithium-Polymer, 16-Pin VFQFPN
+K
+F http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00079821.pdf
+$ENDCMP
+#
+#End Doc Library

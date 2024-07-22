@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "L6924D"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2020-09-11-11:36:45)
+    (mountForm default
+        (footprintRef "QFN50P300X300X100-17N-D")
+        (spec "System")
+    )
+)
