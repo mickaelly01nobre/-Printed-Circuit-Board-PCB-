@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=C0805C476M9PAC7800
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2022-01-30 07:14:12
+Downloaded=2024-07-02 03:03:25
+3D=Y

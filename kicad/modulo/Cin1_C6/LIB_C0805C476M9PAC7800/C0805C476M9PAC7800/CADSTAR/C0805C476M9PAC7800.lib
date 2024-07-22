@@ -1,0 +1,16 @@
+.C0805C476M9PAC7800 :1 ;Multilayer Ceramic Capacitors MLCC - SMD/SMT 6.3volts 47uF 20% X5R
+CAPC2012X145N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN C0805C476M9PAC7800
+~!Mouser Part Number (80-C0805C476M9P7800)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/C0805C476M9PAC7800?qs=xL%2FyUNPmvLY2BGnZa3AdBg%3D%3D)
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (C0805C476M9PAC7800)
+~!Link Datasheet (https://connect.kemet.com:7667/gateway/IntelliData-ComponentDocumentation/1.0/download/specsheet/C0805C476M9PACTU)
+~!Height (1.45mm)
+~!3D_Model (C0805C476M9PAC7800)
+C0805C476M9PAC7800
+1.1!U 2.1!U 
