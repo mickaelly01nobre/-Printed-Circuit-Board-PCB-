@@ -1,0 +1,9 @@
+Manufacturer=STMicroelectronics
+PartNumber=SMM4F5.0A-TR
+PartCategory=Zener Diode
+PackageCategory=Other
+PinCount=3
+Version=3.2
+Released=2019-08-07 17:23:04
+Downloaded=2024-07-03 19:21:17
+3D=Y

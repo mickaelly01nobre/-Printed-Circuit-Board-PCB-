@@ -1,0 +1,31 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model SPV1040T
+#/670226/1359841/2.50/8/3/Integrated Circuit
+DEF SPV1040T IC 0 30 Y Y 1 F N
+F0 "IC" 1450 300 50 H V L CNN
+F1 "SPV1040T" 1450 200 50 H V L CNN
+F2 "SOP65P640X120-8N" 1450 100 50 H I L CNN
+F3 "http://www.mouser.com/ds/2/389/spv1040-974182.pdf" 1450 0 50 H I L CNN
+F4 "Voltage Regulators - Switching Regulators Hi efficiency solar battery charger" 1450 -100 50 H I L CNN "Description"
+F5 "1.2" 1450 -200 50 H I L CNN "Height"
+F6 "STMicroelectronics" 1450 -300 50 H I L CNN "Manufacturer_Name"
+F7 "SPV1040T" 1450 -400 50 H I L CNN "Manufacturer_Part_Number"
+F8 "511-SPV1040T" 1450 -500 50 H I L CNN "Mouser Part Number"
+F9 "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SPV1040T?qs=7qOP6AeGKU1lga8RjcaFUQ%3D%3D" 1450 -600 50 H I L CNN "Mouser Price/Stock"
+F10 "SPV1040T" 1450 -700 50 H I L CNN "Arrow Part Number"
+F11 "https://www.arrow.com/en/products/spv1040t/stmicroelectronics?region=europe" 1450 -800 50 H I L CNN "Arrow Price/Stock"
+DRAW
+X MPP-SET 1 0 0 200 R 50 50 0 0 P
+X GND 2 0 -100 200 R 50 50 0 0 P
+X LX 3 0 -200 200 R 50 50 0 0 P
+X VOUT 4 0 -300 200 R 50 50 0 0 P
+X XSHUT 8 1600 0 200 L 50 50 0 0 P
+X ICTRL_PLUS 7 1600 -100 200 L 50 50 0 0 P
+X ICTRL_MINUS 6 1600 -200 200 L 50 50 0 0 P
+X VCTRL 5 1600 -300 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1400 100 1400 -400 200 -400 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

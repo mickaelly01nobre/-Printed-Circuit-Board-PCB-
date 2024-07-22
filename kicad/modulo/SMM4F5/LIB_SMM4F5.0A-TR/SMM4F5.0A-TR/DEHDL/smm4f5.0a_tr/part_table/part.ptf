@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SMM4F5.0A_TR'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET";
+{========================================================================================}
+ "STMicroelectronics", "SMM4F5.0A-TR" (!) = "", "SMM4F15ATR", "Other", "511-SMM4F5.0A-TR", "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SMM4F5.0A-TR?qs=5HwTSiuA5HB7K7mI4EswPg%3D%3D", "SMM4F5.0A-TR", "https://www.arrow.com/en/products/smm4f5.0a-tr/stmicroelectronics?region=nac", "ESD Suppressors / TVS Diodes 400W HI JCT TMP", "https://www.st.com/resource/en/datasheet/smm4f10a.pdf"
+END_PART
+
+END.

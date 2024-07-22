@@ -1,0 +1,71 @@
+(Japanese_coding: sjis)
+(function "ECS_770927"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-08-07-17:23:04)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portType INOUT))
+        (port "2" (symbPinId 2) (portType INOUT))
+        (port "3" (symbPinId 3) (portType INOUT))
+    )
+    (property "symbolName" "SMM4F5_0A-TR")
+)
+
+
+(pinAssign "ECS_770927"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-08-07-17:23:04)
+    (utime 2023-03-07-16:10:32)
+    (interface
+        (port "1" (symbPinId 1) (portName "K_1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "K_2") (portType INOUT))
+    )
+    (internal
+        (funcInst (functionRef "ECS_770927")
+                (port "1" (match "1"))
+                (port "2" (match "2"))
+                (port "3" (match "3"))
+        )
+    )
+    (property "usePowerBox" "No")
+    (property "symbolName" "SMM4F5_0A-TR")
+)
+
+
+(part "SMM4F5_0A-TR"
+    (uver 1)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (ctime 2019-08-07-17:23:04)
+    (utime 2023-03-07-16:10:32)
+    (packageRef "SMM4F5_0A-TR")
+    (pinAssignRef "ECS_770927")
+    (interface
+        (port "1" (symbPinId 1) (portName "K_1") (portType INOUT))
+        (port "2" (symbPinId 2) (portName "A") (portType INOUT))
+        (port "3" (symbPinId 3) (portName "K_2") (portType INOUT))
+    )
+    (partClass UNDEF)
+    (useInSchema Y)
+    (useInLayout Y)
+    (inPartsList Y)
+    (partType NORMAL)
+    (placeRestriction FREE)
+    (property "enetNonSeries" "NO")
+    (property "refDesPrefix" "Z")
+    (property "description" "ESD Suppressors / TVS Diodes 400W HI JCT TMP")
+    (property "Manufacturer_Name" "STMicroelectronics")
+    (property "Manufacturer_Part_Number" "SMM4F5.0A-TR")
+    (property "Mouser_Part_Number" "511-SMM4F5.0A-TR")
+    (property "Mouser_Price/Stock" "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SMM4F5.0A-TR?qs=5HwTSiuA5HB7K7mI4EswPg%3D%3D")
+    (property "Arrow_Part_Number" "SMM4F5.0A-TR")
+    (property "Arrow_Price/Stock" "https://www.arrow.com/en/products/smm4f5.0a-tr/stmicroelectronics?region=nac")
+    (property "Datasheet_Link" "https://www.st.com/resource/en/datasheet/smm4f10a.pdf")
+)
+
+

@@ -1,0 +1,18 @@
+.SPV1040T :1 ;Voltage Regulators - Switching Regulators Hi efficiency solar battery charger
+SOP65P640X120-8N
+*STM IC
+*NGS
+*PLB 1="MPP-SET" 2="GND" 3="LX" 4="VOUT" 5="VCTRL" 6="ICTRL_MINUS" 7="ICTRL_PLUS" 8="XSHUT"
+*MXP 8
+*DFN SPV1040T
+~!Manufacturer_Name (STMicroelectronics)
+~!Manufacturer_Part_Number (SPV1040T)
+~!Mouser Part Number (511-SPV1040T)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/STMicroelectronics/SPV1040T?qs=7qOP6AeGKU1lga8RjcaFUQ%3D%3D)
+~!Arrow Part Number (SPV1040T)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/spv1040t/stmicroelectronics?region=europe)
+~!Link Datasheet (http://www.mouser.com/ds/2/389/spv1040-974182.pdf)
+~!Height (1.2mm)
+~!3D_Model (SPV1040T)
+SPV1040T
+1.1!U 2.1!U 3.1!U 4.1!U 8.1!U 7.1!U 6.1!U 5.1!U 

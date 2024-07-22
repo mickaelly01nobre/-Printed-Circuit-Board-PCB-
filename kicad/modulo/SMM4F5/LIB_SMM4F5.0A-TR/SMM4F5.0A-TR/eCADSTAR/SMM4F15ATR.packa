@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "SMM4F5_0A-TR"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-12-09-13:04:22)
+    (mountForm default
+        (footprintRef "SMM4F15ATR")
+        (spec "System")
+    )
+)
