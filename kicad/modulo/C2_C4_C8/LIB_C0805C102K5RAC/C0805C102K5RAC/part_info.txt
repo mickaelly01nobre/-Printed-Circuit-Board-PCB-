@@ -1,0 +1,9 @@
+Manufacturer=KEMET
+PartNumber=C0805C102K5RAC
+PartCategory=Capacitor
+PackageCategory=Capacitor Chip Non-polarised
+PinCount=2
+Version=1.1
+Released=2020-04-18 11:02:07
+Downloaded=2024-07-02 03:12:04
+3D=Y
