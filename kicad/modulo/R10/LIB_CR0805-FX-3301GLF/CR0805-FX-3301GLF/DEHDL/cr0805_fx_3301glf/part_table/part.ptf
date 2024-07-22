@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'CR0805_FX_3301GLF'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "CR0805-FX-3301GLF" (!) = "", "RESC2012X60N", "Resistor Chip", "652-CR0805-FX3301GLF", "https://www.mouser.co.uk/ProductDetail/Bourns/CR0805-FX-3301GLF?qs=4vGXhLEMbUzLZ0nTZ9yabA%3D%3D", "SMD 0805 thick film resistor 3K3 1% Bourns CR0805-FX Series Thick Film Surface Mount Fixed Resistor 0805 Case 3.3k +/-1% 0.125W +/-100ppm/C", "https://www.bourns.com/pdfs/chpreztr.pdf", "0.6 mm"
+END_PART
+
+END.
