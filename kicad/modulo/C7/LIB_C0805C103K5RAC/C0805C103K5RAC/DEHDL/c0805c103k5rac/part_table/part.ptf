@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'C0805C103K5RAC'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "KEMET", "C0805C103K5RAC" (!) = "", "CAPC2012X88N", "Capacitor Chip Non-polarised", "80-C0805C103K5RAC", "https://www.mouser.co.uk/ProductDetail/KEMET/C0805C103K5RAC?qs=cw4evkOYbeI1s899dKoNKg%3D%3D", "Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.01uF X7R 0805 10%", "https://componentsearchengine.com/Datasheets/1/C0805C103K5RAC.pdf", "0.88 mm"
+END_PART
+
+END.

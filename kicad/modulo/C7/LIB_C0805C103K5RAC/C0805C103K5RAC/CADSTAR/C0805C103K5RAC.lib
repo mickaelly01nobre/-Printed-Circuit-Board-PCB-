@@ -1,0 +1,16 @@
+.C0805C103K5RAC :1 ;Multilayer Ceramic Capacitors MLCC - SMD/SMT 50V 0.01uF X7R 0805 10%
+CAPC2012X88N
+*STM C
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN C0805C103K5RAC
+~!Mouser Part Number (80-C0805C103K5RAC)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/KEMET/C0805C103K5RAC?qs=cw4evkOYbeI1s899dKoNKg%3D%3D)
+~!Manufacturer_Name (KEMET)
+~!Manufacturer_Part_Number (C0805C103K5RAC)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/C0805C103K5RAC.pdf)
+~!Height (0.88mm)
+~!3D_Model (C0805C103K5RAC)
+C0805C103K5RAC
+1.1!U 2.1!U 
