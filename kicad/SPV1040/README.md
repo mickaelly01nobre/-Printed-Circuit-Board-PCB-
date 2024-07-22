@@ -6,7 +6,7 @@ It is possible to set the maximum output current according to charging requireme
 
 The SPV1040 protects itself and other application devices by stopping the PWM switching if either the maximum current threshold (up to 1.8 Apk) is reached or the maximum temperature limit (up to 155 °C) is exceeded. An additional built-in feature of the SPV1040 is the input source reverse polarity protection, which prevents damage in case of reverse connection of the solar panel on the input.
 
-### Technical Teatures
+### Technical Features
 
 * 0.3 V to 5.5 V operating input voltage
 * 140 mΩ internal synchronous rectifier
